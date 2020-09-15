@@ -9,7 +9,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://116.228.101.34:667/app/FengXianHeZhaProgect.ipa</string>
+                    <string>https://raw.githubusercontent.com/wukangbao/updateFxElecApp/master/FengXianHeZhaProgect.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
